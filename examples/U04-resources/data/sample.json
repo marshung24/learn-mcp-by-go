@@ -1,0 +1,11 @@
+{
+  "name": "MCP Learning Project",
+  "version": "1.0.0",
+  "description": "學習 MCP Server 開發的範例專案",
+  "features": [
+    "Tools",
+    "Resources",
+    "Prompts"
+  ],
+  "author": "MCP Learner"
+}
